@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-
+//komentarz testowy
 
 int main()
 {
